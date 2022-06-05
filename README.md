@@ -12,3 +12,4 @@ Launching the app:
 - `pip install -r requirements.txt`
 - launch alien_invasion.py
 
+![image](https://user-images.githubusercontent.com/31844970/172043345-d1aeea47-19d3-4543-b4e8-4c5468dfdb35.png)
